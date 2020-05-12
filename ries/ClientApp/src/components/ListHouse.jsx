@@ -1,5 +1,5 @@
 ﻿import React, { Fragment, useEffect, useState } from "react";
-import axios from 'axios';
+
 const ListHouse = () => {
     const [house, setHouse] = useState([]);
     const getHouse = async () => {
