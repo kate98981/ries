@@ -1,0 +1,142 @@
+        body{
+            margin: 2%;
+        }
+        #sub1{
+            width: 166px;
+            color: white;
+            background: #75acff;
+            height:30px;
+            border: 1px solid black;
+        }
+        .d1{
+            background: #e5e5e5;
+            width: 166px;
+            float: left;
+            height: 40px;
+            text-align: center;
+            border: 1px solid black;
+        }
+        .d1 a{
+            display: block;
+            text-align: center;
+            color: #6f6e6e;
+            width: 166px;
+            height: 40px;
+            padding-top: 10px;
+        }
+
+.d11:hover {
+    background: #ff6b6b;
+}
+
+        .d111 a{
+            color: white;
+            font-weight: bold;
+        }
+
+        .d111{
+            background: #ff6b6b;
+        }
+
+        .d22:hover{
+            background: #ff6b6b;
+        }
+
+        .d222:hover{
+            background: #ff6b6b;
+        }
+        .d333:hover{
+            background: #ff6b6b;
+        }
+        a{
+            text-decoration: none;
+            color: #6f6e6e;
+        }
+        .d1 a:hover{
+            color: white;
+        }
+
+        .div1 a:hover{
+            color: black;
+        }
+        #sub1:hover{
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        a:hover{
+            font-weight: bold;
+        }
+        .a1:hover{
+            color: black;
+        }
+        .a2{
+            color: black;
+            font-weight: bold;
+        }
+
+        .mod{
+            background: #c4c4c4;
+            padding-bottom: 5px;
+            padding-left: 5px;
+            border: 1px solid black;
+            font-weight: bold;
+        }
+
+        .mod:hover{
+            cursor: pointer;
+        }
+
+        #img1{
+            margin-right: 1%;
+        }
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+    background: #C4C4C4;
+    width: 100%;
+}
+        td{
+            padding: 10px;
+        }
+        .tab2 td {
+            padding: 5px;
+        }
+
+.tab3 td {
+    padding: 10px;
+}
+
+.tab3 {
+    border: 1px solid black;
+}
+
+.sav {
+    background: #75acff;
+    width: 220px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+
+    .sav a {
+        display: block;
+        text-align: center;
+        color: white;
+        width: 220px;
+        height: 20px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .nav1{
+        margin-bottom:20px;
+    }
+
+    .pot{
+        margin-bottom:30%;
+    }
